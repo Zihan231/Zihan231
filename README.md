@@ -1,3 +1,5 @@
+![1761420232394](https://github.com/user-attachments/assets/00583b46-b5c0-43ce-9379-5b5573f3c4be)
+
 # 💫 About Me:
 👋 Hi there!<br>I'm a CSE student with a strong passion for coding and building projects.<br>💻 I love turning ideas into real-world applications.<br>🎯 I'm dedicated to every task I start—and I only rest after getting it done.<br>🚀 Always a hungry learner, eager to explore new technologies and grow every day.<br><br>Let's connect, collaborate, and code something amazing!
 
