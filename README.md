@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=MD.%20Zihaul%20Islam%20Zihan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=zihan231">
-    <img src="https://komarev.com/ghpvc/?username=zihan231&label=Profile%20views&color=00FFFF&style=flat-square" alt="zihan231's profile views" />
-  </a>
-</p>
+
 # 💫 About Me
 
 👋 Hi there!  
@@ -51,17 +47,42 @@ Let's connect, collaborate, and build something meaningful!
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zihan231&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Zihan231&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihan231&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/zihan231">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zihan231&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="zihan231's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zihan231&theme=radical&hide_border=true&cache_seconds=86400" alt="zihan231's GitHub Streak" width="49%" />
+  
+</p>
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zihan231&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=zihan231&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MD. Zihaul Islam Zihan's GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Zihan231&limit=5&theme=radical&combine_all_yearly_contributions=true)
+### 👩🏻‍💻 My Programming Languages
+<p align="center">
+  <a href="https://github.com/zihan231">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zihan231&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Zihan231&icon=10&color=13)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=zihan231">
+    <img src="https://komarev.com/ghpvc/?username=zihan231&label=Profile%20views&color=00FFFF&style=flat-square" alt="zihan231's profile views" />
+  </a>
+</p>
