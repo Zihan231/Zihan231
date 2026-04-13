@@ -42,9 +42,15 @@ Let's connect, collaborate, and build something meaningful!
 ![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+
 ### 🧰 Frameworks & Tools
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat&logo=typeorm&logoColor=white)
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=zihan231&theme=radical&hide_border=true&cache_seconds=86400" alt="zihan231's GitHub Streak" width="60%" />
@@ -64,13 +70,16 @@ Let's connect, collaborate, and build something meaningful!
 ### 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/zihan231/Rokto-Din">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zihan231&repo=Rokto-Din&theme=radical" alt="Rokto-Din" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zihan231&repo=Rokto-Din&theme=radical&v=2" alt="Rokto-Din" />
   </a>
   <a href="https://github.com/zihan231/Contest-Hub-Client">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zihan231&repo=Contest-Hub-Client&theme=radical" alt="Contest Hub Client" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zihan231&repo=Contest-Hub-Client&theme=radical&v=1" alt="Contest Hub Client" />
   </a>
   <a href="https://github.com/Zihan231/StudySync-FrontEnd">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zihan231&repo=StudySync-FrontEnd&theme=radical" alt="StudySync" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zihan231&repo=StudySync-FrontEnd&theme=radical&v=1" alt="StudySync" />
+  </a>
+  <a href="https://github.com/Zihan231/GameHub">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zihan231&repo=GameHub&theme=radical&v=1" alt="GameHub" />
   </a>
 </p>
 
