@@ -1,5 +1,10 @@
-![1761420232394](https://github.com/user-attachments/assets/00583b46-b5c0-43ce-9379-5b5573f3c4be)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=MD.%20Zihaul%20Islam%20Zihan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=zihan231">
+    <img src="https://komarev.com/ghpvc/?username=zihan231&label=Profile%20views&color=00FFFF&style=flat-square" alt="zihan231's profile views" />
+  </a>
+</p>
 # 💫 About Me
 
 👋 Hi there!  
