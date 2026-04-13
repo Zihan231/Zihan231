@@ -1,10 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=MD.%20Zihaul%20Islam%20Zihan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-
 # 💫 About Me
 
 👋 Hi there!  
-I'm a CSE student at **AIUB** with a growing passion for full-stack development.
+I'm a recent CSE graduate at **AIUB** with a growing passion for full-stack development.
 
 💻 I work with **React, Node.js, NestJS, Express, Tailwind CSS**, and I'm currently learning **.NET** to expand my stack.  
 🚀 I love turning ideas into real, functional applications and learning new technologies through hands-on projects.  
@@ -58,31 +57,38 @@ Let's connect, collaborate, and build something meaningful!
   
 </p>
 
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=zihan231&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MD. Zihaul Islam Zihan's GitHub Trophies" />
 </p>
+
+### 👩🏻‍💻 Top Languages & Activity
 <p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zihan231&layout=compact&theme=radical" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zihan231&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
 </p>
 
-### 👩🏻‍💻 My Programming Languages
+### 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/zihan231">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zihan231&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/zihan231/Rokto-Din">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zihan231&repo=Rokto-Din&theme=radical" alt="Rokto-Din" />
+  </a>
+  <a href="https://github.com/zihan231/Contest-Hub-Client">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zihan231&repo=Contest-Hub-Client&theme=radical" alt="Contest Hub Client" />
+  </a>
+  <a href="https://github.com/Zihan231/StudySync-FrontEnd">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zihan231&repo=StudySync-FrontEnd&theme=radical" alt="StudySync" />
   </a>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20,29&text=Thanks%20for%20dropping%20by!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" alt="Footer" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=zihan231">
-    <img src="https://komarev.com/ghpvc/?username=zihan231&label=Profile%20views&color=00FFFF&style=flat-square" alt="zihan231's profile views" />
+  <a href="https://github.com/zihan231">
+    <img src="https://komarev.com/ghpvc/?username=zihan231&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="profile views" />
   </a>
 </p>
