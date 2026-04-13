@@ -47,14 +47,7 @@ Let's connect, collaborate, and build something meaningful!
 
 # 📊 GitHub Stats:
 <p align="center">
-  <a href="https://github.com/zihan231">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zihan231&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="zihan231's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zihan231&theme=radical&hide_border=true&cache_seconds=86400" alt="zihan231's GitHub Streak" width="49%" />
-  
+  <img src="https://streak-stats.demolab.com/?user=zihan231&theme=radical&hide_border=true&cache_seconds=86400" alt="zihan231's GitHub Streak" width="60%" />
 </p>
 
 ## 🏆 GitHub Trophies
