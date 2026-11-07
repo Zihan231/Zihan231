@@ -13,14 +13,25 @@ I'm a recent CSE graduate at **AIUB** with a growing passion for full-stack deve
 Let's connect, collaborate, and build something meaningful!
 
 
-
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Zihan231)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/Zihan_islam_19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zihan231)
-[![X](https://img.shields.io/badge/X-000000.svg?logo=X&logoColor=white)](https://x.com/Zihan_231)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zihanislam231@gmail.com)
+<h2>🌐 Socials:</h2>
 
+<a href="https://zihanislam.me/">
+  <img src="https://zihanislam.me/favicon.ico" width="16" height="16" alt="Portfolio Icon">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.instagram.com/Zihan_islam_19">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/zihan231">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://x.com/Zihan_231">
+  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X">
+</a>
+<a href="mailto:zihanislam231@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+</a>
 
 
 # 💻 Tech Stack:
